@@ -1,1 +1,27 @@
 Record my learning process.
+
+
+#BACKBONE network test
+
+ResNet101
+ResNeXt101
+ResNeSt101
+
+VGG19         
+
+DetNet59
+CSPDarknet53
+
+EfficientB0
+EfficientB1
+EfficientB2
+
+
+
+#Comparing experiments
+OD:
+Nested Network
+
+
+SS:
+Unet3+
